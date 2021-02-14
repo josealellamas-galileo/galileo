@@ -91,7 +91,7 @@ Comandos de Git
 
 | Comando | Descripción |
 | :---: | :--- |
-| `git init` | Significa *initialize* y lo que significa es que comienza un repositorio en Git | 
+| `git init` | Significa *initialize* y la acción que ejecuta es comenzar un repositorio en Git. | 
 | `git help` | Brinda información acerca del comando referenciado. La estructura es git *help* + comando. | 
 | `git status` |Nos brinda información acerca del estado del repositorio.|
 | `git add` |Permite agregar una nueva versión del blob al staging area.|
@@ -148,13 +148,26 @@ Comandos de Git
 | `git stash` | Permite revertir el directorio de trabajo hacia el último commit. El comando para revertirlo es **stash pop**.|
 | `gitignore`| Ignora archivos que no son de interés para el usuario. |
 
+Conclusiones
+---
+***
+
+- Es un hecho que el trabajo colaborativo alrededor del mundo es más fuerte que nunca. Especialmente en la industria tech y en proyectos de código. Si bien es posible trabajar con perfiles muy capacitados y altamente competentes, también nos enfrentamos a una serie de desafíos como lo es el trabajo simultáneo y la buena administración de ello. Por ende es sumanente útil trabajar con herramientas que nos ayuden a hacer un seguimiento de los cambios creados en un proyecto de código u otra índole.
+
+- Git es una herramienta perfecta para ello. A través de este software es posible administrar la carga de versiones que pueden generarse para elaborar un proyecto con varias fases. Adicionalmente es flexible en cuanto a la creación de diversas versiones y la conexión de estas en algún punto. Asímismo otorga a los usuarios el control que necesitan al momento de implementar cambios, dándoles la oportunidad de escoger qué integrar y qué no.
+
+- Si bien la interfaz de Git no es la más atractiva --una terminal--, la clave para trabajar bien con ella es comprender su modelo de datos. Admito que mi primer acercamiento con esta fue bastante abrumadora, no obstante indagar la forma en cómo funciona y los comandos que utiliza, puedo decir que mi percepción de Git es más favorable que negativa.
+
+- En lo que resta del curso y lo que depara mi futuro profesional estoy seguro que la herramienta será una fuerte aliada a la hora de trabajar proyectos de código. Considero que la práctica será la herramienta que me ayudará a pulir el uso de Git y llevar a cabo proyectos efectivos.
+
+
 Referencias
 ---
 ***
 
 - [EDTeam - ¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 - [Github - Organizar información en tablas](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
-- [Medium - Markdonw for Jypyter Notebooks cheatsheet](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
+- [Medium - Markdonw for Jupyter Notebooks cheatsheet](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
 - [MIT - Version Control](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
 - [SQLBak - Jupyter Notebook Markdown cheatsheet](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
 
